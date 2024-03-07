@@ -44,7 +44,7 @@ public class Main {
                 "A lâmpada apagada e quente corresponde ao interruptor que foi ligado e desligado.\n" +
                 "A lâmpada apagada e fria corresponde ao interruptor que nunca foi tocado.");
 
-        System.out.println("-------------------------");
+        System.out.println("------------------------");
 
         System.out.println("5 - " + inverterString("teste"));
 
